@@ -1,3 +1,6 @@
+/* P1.c */
+/* Luciano Soares Nascimento*/
+/* 11811ECP024 */
 #include <stdio.h>
 void binario()
 {
