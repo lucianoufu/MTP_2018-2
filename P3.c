@@ -1,7 +1,7 @@
 /*
-	P3.c
-	Luciano Soares Nascimento
-	11811ECP024
+P3.c
+Luciano Soares Nascimento
+11811ECP024
 */
 #include <stdio.h>
 int returnnum(char numero[])
