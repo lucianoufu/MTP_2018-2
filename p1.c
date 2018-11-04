@@ -32,7 +32,7 @@ void binario()
 	if(estado == 0)
 		printf(" \"%s\" e multiplo de 3 ", bits);
 	else 
-		printf(" \"%s\" nao e\n", bits, 198,130);
+		printf(" \"%s\" nao e\n", bits);
 }
 
 int main()
@@ -65,7 +65,7 @@ int main()
 	if(estado == 0)
 		printf(" \"%s\" e multiplo de 3 ", bits);
 	else 
-		printf(" \"%s\" nao e\n", bits, 198,130);
+		printf(" \"%s\" nao e\n", bits);
 		
 	return 0;
 }
