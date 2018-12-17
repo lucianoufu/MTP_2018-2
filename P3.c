@@ -118,7 +118,7 @@ int main()
 {
 	char numero[256];
 	int i;
-	printf("Digite um numero: ",);
+	printf("Digite um numero: ");
 	scanf("%s", &numero);
 	printf("%i", returnnum(numero));
 	return 0;
